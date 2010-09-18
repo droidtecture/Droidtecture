@@ -1,3 +1,3 @@
 ********************************************************************
-* TODO: Write conditions for usage
+* Integration Line, documents in this line are ready for master
 ********************************************************************
