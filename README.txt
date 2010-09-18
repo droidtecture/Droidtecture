@@ -1,3 +1,3 @@
 ********************************************************************
-* Integration Line, documents in this line are ready for master
+* Radio Layer Section Branch
 ********************************************************************
